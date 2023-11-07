@@ -72,3 +72,7 @@ span {
     background-size: cover;
     background-position-x: center;
 }
+
+#firstcard:hover {
+    opacity: 33%;
+}
