@@ -1,0 +1,74 @@
+body {
+
+    /* font-family: 'Lugrasimo', cursive; */
+
+
+    font-family: 'Montserrat', sans-serif;
+
+
+    /* background: linear-gradient(#311E1C, #F7261C, #FF8B6B, #FF8B6B, #633625, #A46F73);
+    background-size: 400% 400%;
+    animation: gradient 15s ease infinite;
+    height: 100vh; */
+}
+
+
+
+#tech {
+    display: flex;
+    justify-items: center;
+    justify-items: center;
+    justify-content: center;
+    background-color: #1B1B1B;
+}
+
+
+#skills {
+    position: absolute;
+    width: fit-content;
+    padding-top: 250px;
+    width: 520px
+}
+
+#skills svg {
+    width: 60px;
+    height: 60px;
+}
+
+#html {
+    left: 20%;
+    top: 330px;
+}
+
+#css {
+    left: 25%;
+    top: 330px;
+}
+
+#javascript {
+    left: 30%;
+    top: 330px;
+}
+
+#react {
+    left: 35%;
+    top: 330px;
+}
+
+#bootstrap {
+    left: 40%;
+    top: 330px;
+}
+
+span {
+    font-size: 23px;
+    font-weight: bold;
+}
+
+#firstcard {
+    background-image: url(../PersonalSite/port.png);
+    background-repeat: no-repeat;
+    background-position-y: center;
+    background-size: cover;
+    background-position-x: center;
+}
