@@ -65,7 +65,7 @@ span {
 }
 
 #firstcard {
-    background-image: url(../PersonalSite/port.png);
+    background-image: url(./port.png);
     background-repeat: no-repeat;
     background-position-y: center;
     background-size: cover;
